@@ -1,0 +1,5 @@
+1. Lets play button for showing Randomize rules
+2. Gives user 1 random person DPS 1, 2, Support 1, Support 2. 
+3. Randomizer option for heroes
+4. Have Standard Rules 
+4.5. Maybe have option to create own rules
